@@ -5,6 +5,7 @@ import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
 import ExpandingGridTokenomics from '@/components/sections/layouts/tokenomics/ExpandingGridTokenomics';
 import CentralFAQ from '@/components/sections/layouts/faq/CentralFAQ';
+import Footer from '@/components/navigation/Footer';
 
 const PHOTOS = [
   '/images/logo.svg',
