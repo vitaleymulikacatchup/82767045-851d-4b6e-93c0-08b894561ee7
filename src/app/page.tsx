@@ -1,5 +1,5 @@
 "use client";
-import { NavbarBase } from '@/components/navigation/NavbarBase';
+import NavbarBase from '@/components/navigation/NavbarBase';
 import BillboardHero from '@/components/sections/layouts/hero/BillboardHero';
 import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
 import TokenBillboardHero from '@/components/sections/layouts/hero/TokenBillboardHero';
